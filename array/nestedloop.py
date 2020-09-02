@@ -2,7 +2,7 @@
 #           store them in an array, output all the values of this array.
 #           Check if there are values are repetitive.
 #           Output "there are repetitive values"
-#                   or "there is not repetitive values" after the check.
+#                   or "there is no repetitive value" after the check.
 #
 # For this and nestedloop2.py,
 #   14 integers chosen in range 2-9 must have repetitive values,

@@ -3,7 +3,7 @@
 #           output all the values of this array.
 #           Check if there are values are repetitive.
 #           Output "there are repetitive values"
-#                   or "there is not repetitive values" after the check,
+#                   or "there is no repetitive value" after the check,
 #           stop the program immediately
 #               when you found there are repetitive values in the array.
 
