@@ -5,7 +5,7 @@
 
 import random
 
-numbers: list = random.choices(list(range(1, 10)), k=14)
+numbers: list = random.choices(list(range(2, 10)), k=14)
 print(numbers)
 
 freq_dict: dict = {}
