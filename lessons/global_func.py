@@ -2,6 +2,10 @@ def inp(num: int) -> list:
     return [int(input(f"{chr(120 + i)}: ")) for i in range(num)]
 
 
+def inp_generic(num, cls: type) -> list:
+    return [cls(input(f"{chr(120 + i)}: ")) for i in range(num)]
+
+
 acc = 0
 
 
