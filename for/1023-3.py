@@ -1,0 +1,1 @@
+print(" ".join([input(f"{'First' if i == 0 else ('Last' if i + 1 == le else 'Middle')} name: ") for le in [int(input("How many parts of name do you have: "))] for i in range(le)]))

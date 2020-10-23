@@ -1,0 +1,3 @@
+print('\n'.join([str(i) for i in range(10, 110, 10)]))
+print(sum([float(input("Score: ")) for _ in range(3)]) / 3.0)
+print(" ".join([input(f"{'First' if i == 0 else ('Last' if i + 1 == le else 'Middle')} name: ") for le in [int(input("How many parts of name do you have: "))] for i in range(le)]))
