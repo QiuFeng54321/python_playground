@@ -1,22 +1,31 @@
 body {
-    background-color: lightblue;
+    background-color: black;
 }
 
 h1 {
     color: white;
     text-align: center;
+    font-size: 80px;
 }
 
 a {
-    background-color: aqua;
-    font-size: medium;
+    font-size: x-large;
+    color: whitesmoke;
 }
 
 p {
     font-family: verdana;
-    font-size: 20px;
+    font-size: 25px;
+    color: whitesmoke;
 }
 
 img {
-    align-self: center;
+    width: 65%;
+    height: 65%;
+    margin-right: -10%;
+}
+
+#block {
+    padding-top: 5%;
+    padding-left: 5%;
 }
