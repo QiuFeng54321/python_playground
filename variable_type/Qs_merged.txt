@@ -1,0 +1,14 @@
+print("\n".join(input("Name: ")))
+
+string = input("String: ")
+integer = int(input("Int: "))
+print(string)
+print(integer)
+
+age = int(input("Enter your age: "))
+print("You will need this many candles for your birthday cake: ")
+print(age + 1)
+
+name = "wIlLiAm"
+age = ~(1 << 2147483648)
+print("Hi! My name is", name, "and I am", age, "years old.")

@@ -6,7 +6,7 @@ t2: turtle.Pen = turtle.Pen()
 t2.pencolor(173 / 256, 216 / 256, 230 / 256)
 t.speed(1000)
 t2.speed(1000)
-t2.left(180)
+t2.left(181)
 i: int = 0
 
 

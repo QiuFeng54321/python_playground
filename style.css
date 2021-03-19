@@ -25,7 +25,11 @@ img {
     margin-right: -10%;
 }
 
+#page {
+    padding: 5%;
+}
+
 #block {
-    padding-top: 5%;
-    padding-left: 5%;
+    /* padding-top: 5%;
+    padding-left: 5%; */
 }
